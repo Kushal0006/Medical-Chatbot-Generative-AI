@@ -1,1 +1,1 @@
-# Medical-Chatbot-Generative
+# Medical-Chatbot-Generative-AI
